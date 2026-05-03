@@ -1,0 +1,52 @@
+[
+  {
+    "keywords": ["nota", "none of the above"],
+    "question": "What is NOTA?",
+    "answer": "NOTA stands for 'None Of The Above'. It's an option on the EVM that lets you reject all candidates. Your vote is counted but doesn't go to anyone. It's a way to express dissatisfaction while still participating in democracy. India introduced NOTA in 2013 following a Supreme Court directive."
+  },
+  {
+    "keywords": ["voter id", "without voter id", "id card", "no voter id", "alternate id"],
+    "question": "Can I vote without a Voter ID card?",
+    "answer": "Yes! While a Voter ID (EPIC card) is preferred, you can vote with any of these photo IDs: Aadhaar card, Passport, Driving License, PAN Card, Bank passbook with photo, MNREGA job card, or service ID cards for government employees. The key is your name must be on the electoral roll."
+  },
+  {
+    "keywords": ["working", "work", "leave", "office", "job", "employer", "holiday"],
+    "question": "What if I'm working on voting day?",
+    "answer": "By law, employers must give you paid leave to vote if your polling station is far from your workplace. Many companies offer 'Voting Day Leave'. If you can't travel, check if you're eligible for a postal ballot — usually available for government employees and armed forces personnel."
+  },
+  {
+    "keywords": ["evm", "electronic voting machine", "how to vote", "machine", "button"],
+    "question": "How does the EVM work?",
+    "answer": "The Electronic Voting Machine has two units: the Control Unit (with the election officer) and the Ballot Unit (for you). You press the button next to your chosen candidate's name and symbol. A beep confirms your vote, and a red light glows. It's simple, secure, and tamper-proof. A VVPAT machine also prints a slip for verification."
+  },
+  {
+    "keywords": ["result", "results", "counting", "announcement", "when", "declared"],
+    "question": "When will results be announced?",
+    "answer": "Vote counting happens on a designated Counting Day, usually 2-3 days after voting. Counting starts at 8 AM and results are typically clear by afternoon or evening the same day. You can watch live updates on news channels, the Election Commission website (eci.gov.in), and Doordarshan."
+  },
+  {
+    "keywords": ["register", "registration", "how to register", "enroll", "form 6", "nvsp"],
+    "question": "How do I register to vote?",
+    "answer": "To register: 1) Visit voters.eci.gov.in or the Voter Helpline App. 2) Fill Form 6 for new registration. 3) Upload documents: Aadhaar card or proof of age, and proof of residence. 4) Submit online. 5) Track status on the same portal. Registration typically takes 2-4 weeks to process. The deadline is usually 30 days before election day."
+  },
+  {
+    "keywords": ["transfer", "change address", "moved", "different city", "registered elsewhere", "form 8"],
+    "question": "How do I transfer my voter registration?",
+    "answer": "To transfer your voter registration to a new address: 1) Visit voters.eci.gov.in. 2) Fill Form 8 (shifting of residence). 3) Provide new address proof and your current voter ID. 4) Submit and wait 2-4 weeks. Important: Do this well before elections — transfers have a cutoff date usually 30 days before polls."
+  },
+  {
+    "keywords": ["postal ballot", "postal", "absent", "away", "absentee"],
+    "question": "Who is eligible for postal ballot?",
+    "answer": "Postal ballot is available for: 1) Government service employees and their spouses. 2) Armed forces personnel. 3) Persons with disabilities (PWD) with 40%+ disability. 4) Voters on election duty. 5) Senior citizens above 85 years (in some states). Apply through Form 12D to your Returning Officer at least 5 days before polling."
+  },
+  {
+    "keywords": ["age", "18", "eligible", "eligibility", "criteria"],
+    "question": "What is the voting age in India?",
+    "answer": "The minimum age to vote in India is 18 years. You must be 18 or older on January 1st of the year the electoral rolls are revised. You also need to be an Indian citizen and ordinarily resident at the address you wish to register. There is no upper age limit for voting."
+  },
+  {
+    "keywords": ["ink", "finger", "indelible ink", "mark"],
+    "question": "Why is ink applied on the finger?",
+    "answer": "Indelible (permanent) ink is applied on the left index finger to prevent a person from voting more than once. This ink is made by a government factory in Mysore and is designed to last 2-3 weeks. It's used in all Indian elections since 1962 and is one of the simplest yet most effective anti-fraud measures."
+  }
+]

@@ -1,0 +1,188 @@
+{
+  "Bangalore Central": [
+    {
+      "id": 1,
+      "name": "Rajesh Kumar",
+      "party": "BJP",
+      "symbol": "🪷",
+      "age": 52,
+      "education": "MBA",
+      "color": "#FF6B35",
+      "bgColor": "#FFF3EE",
+      "initials": "RK"
+    },
+    {
+      "id": 2,
+      "name": "Priya Sharma",
+      "party": "INC",
+      "symbol": "✋",
+      "age": 45,
+      "education": "LLB",
+      "color": "#2563EB",
+      "bgColor": "#EFF6FF",
+      "initials": "PS"
+    },
+    {
+      "id": 3,
+      "name": "Ahmed Khan",
+      "party": "AAP",
+      "symbol": "🧹",
+      "age": 38,
+      "education": "B.Tech",
+      "color": "#0891B2",
+      "bgColor": "#ECFEFF",
+      "initials": "AK"
+    },
+    {
+      "id": 4,
+      "name": "Sunita Reddy",
+      "party": "Independent",
+      "symbol": "🚲",
+      "age": 41,
+      "education": "MA Political Science",
+      "color": "#6D28D9",
+      "bgColor": "#F5F3FF",
+      "initials": "SR"
+    }
+  ],
+  "Bangalore North": [
+    {
+      "id": 5,
+      "name": "Amit Desai",
+      "party": "BJP",
+      "symbol": "🪷",
+      "age": 49,
+      "education": "BE Civil",
+      "color": "#FF6B35",
+      "bgColor": "#FFF3EE",
+      "initials": "AD"
+    },
+    {
+      "id": 6,
+      "name": "Lakshmi Rao",
+      "party": "INC",
+      "symbol": "✋",
+      "age": 55,
+      "education": "MSc",
+      "color": "#2563EB",
+      "bgColor": "#EFF6FF",
+      "initials": "LR"
+    },
+    {
+      "id": 7,
+      "name": "Vikram Singh",
+      "party": "Independent",
+      "symbol": "🪁",
+      "age": 34,
+      "education": "MBA",
+      "color": "#6D28D9",
+      "bgColor": "#F5F3FF",
+      "initials": "VS"
+    }
+  ],
+  "Mysore": [
+    {
+      "id": 8,
+      "name": "Chandrakala Devi",
+      "party": "BJP",
+      "symbol": "🪷",
+      "age": 58,
+      "education": "BA",
+      "color": "#FF6B35",
+      "bgColor": "#FFF3EE",
+      "initials": "CD"
+    },
+    {
+      "id": 9,
+      "name": "Mohan Gowda",
+      "party": "JD(S)",
+      "symbol": "⭐",
+      "age": 63,
+      "education": "LLB",
+      "color": "#059669",
+      "bgColor": "#ECFDF5",
+      "initials": "MG"
+    },
+    {
+      "id": 10,
+      "name": "Rekha Nair",
+      "party": "INC",
+      "symbol": "✋",
+      "age": 47,
+      "education": "MBA",
+      "color": "#2563EB",
+      "bgColor": "#EFF6FF",
+      "initials": "RN"
+    }
+  ],
+  "Mumbai South": [
+    {
+      "id": 11,
+      "name": "Anand Mehta",
+      "party": "Shiv Sena",
+      "symbol": "🏹",
+      "age": 54,
+      "education": "Commerce",
+      "color": "#D97706",
+      "bgColor": "#FFFBEB",
+      "initials": "AM"
+    },
+    {
+      "id": 12,
+      "name": "Fatima Sheikh",
+      "party": "INC",
+      "symbol": "✋",
+      "age": 42,
+      "education": "MSc",
+      "color": "#2563EB",
+      "bgColor": "#EFF6FF",
+      "initials": "FS"
+    },
+    {
+      "id": 13,
+      "name": "Ravi Patil",
+      "party": "BJP",
+      "symbol": "🪷",
+      "age": 51,
+      "education": "B.Tech",
+      "color": "#FF6B35",
+      "bgColor": "#FFF3EE",
+      "initials": "RP"
+    }
+  ],
+  "Delhi East": [
+    {
+      "id": 14,
+      "name": "Sanjay Gupta",
+      "party": "AAP",
+      "symbol": "🧹",
+      "age": 46,
+      "education": "CA",
+      "color": "#0891B2",
+      "bgColor": "#ECFEFF",
+      "initials": "SG"
+    },
+    {
+      "id": 15,
+      "name": "Meera Joshi",
+      "party": "BJP",
+      "symbol": "🪷",
+      "age": 39,
+      "education": "LLB",
+      "color": "#FF6B35",
+      "bgColor": "#FFF3EE",
+      "initials": "MJ"
+    },
+    {
+      "id": 16,
+      "name": "Abdul Rahman",
+      "party": "INC",
+      "symbol": "✋",
+      "age": 57,
+      "education": "MA",
+      "color": "#2563EB",
+      "bgColor": "#EFF6FF",
+      "initials": "AR"
+    }
+  ]
+}
